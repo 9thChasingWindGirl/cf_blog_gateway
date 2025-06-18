@@ -285,7 +285,7 @@ async function handleRequest(request) {
 	<body>
 		<div class="container">
 		<div class="avatar-container" style="width: 120px; height: 120px; margin: 50px auto;">
-		<a href="https://github.com/9thChasingWindGirl/blog_gateway/blob/main/modify.js" target="_blank" rel="noopener noreferrer" >
+		<a href="https://github.com/9thChasingWindGirl/cf_blog_gateway/blob/main/modify.js" target="_blank" rel="noopener noreferrer" >
 			<img class="logo" src="// 替换为头像图片链接" alt="头像">
 			</a>
 	  			</div>
